@@ -1,0 +1,7 @@
+svg {
+    height: 300px;
+    width: 100%;
+    border: 1px solid green;
+    margin-top: 50px;
+    background-color: gainsboro;
+}
